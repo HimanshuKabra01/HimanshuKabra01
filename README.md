@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Himanshu Kabra
+- 👀 My hobbies are to code and play video games
+- 🌱 I’m currently learning React.js and practicing DSA in C++ 
+- 💞️ I’m looking to collaborate with everyone who has same interests as me
+- 📫 Reach me at kabrahimanshu123@gmail.com
+- 😄 Pronouns: he/him
