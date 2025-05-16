@@ -35,7 +35,7 @@
 ### Cloud & Cloud Services
 | Google Cloud |
 |--------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_Logo.svg" width="50" alt="Google Cloud" /> |
+| <img src="https://github.com/HimanshuKabra01/HimanshuKabra01/blob/main/gif/Google_Cloud_logo.svg.png" width="250" alt="Google Cloud" /> |
 
 
 
