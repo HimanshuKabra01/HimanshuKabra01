@@ -32,12 +32,6 @@
 |---|-----|--------|
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C" />](https://en.wikipedia.org/wiki/C_(programming_language)) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />](https://isocpp.org/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />](https://www.python.org/) |
 
-
-### Backend
-| Node.js |
-|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" /> |
-
 ### Cloud & Cloud Services
 | Google Cloud |
 |--------------|
@@ -59,7 +53,7 @@
 
 Got an idea? Let's build something together!
 
-- Email: [kabrahimanshu123@.com](mailto:kabrahimanshu123@.com)
+- Email: [kabrahimanshu123@gmail.com](mailto:kabrahimanshu123@gmail.com)
 
 ---
 
