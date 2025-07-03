@@ -23,9 +23,9 @@
 ## 🚀 My Tech Stack
 
 ### Frontend
-| HTML5 | CSS3 | JavaScript | React |
-|-------|------|------------|-------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" /> |
+| HTML5 | CSS3 | JavaScript | React | TypeScript |
+|-------|------|------------|-------|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" /> |
 
 ### Programming Languages
 | C | C++ | Python |
@@ -43,8 +43,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuKabra01&show_icons=true&theme=radical" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuKabra01&theme=react-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuKabra01&rank_icon=percentile&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HimanshuKabra01&theme=transparent"/>
 </p>
 
 ---
